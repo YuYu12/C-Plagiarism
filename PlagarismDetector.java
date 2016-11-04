@@ -1,4 +1,4 @@
-
+// author: Michael
 //There are several characteristics to consider plagarism with similarity to another file:
 //1. Word for word.  That is if they submitted the same file
 //2. Context.  Did they just submit the same thing with new variable names
